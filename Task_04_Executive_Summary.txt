@@ -1,0 +1,14 @@
+TASK 04 – MARKETING CAMPAIGN ANALYSIS
+Customers analyzed: 2240
+Original columns: 29
+Duplicate IDs removed: 0
+Missing income values: 24
+Median income used for imputation: 51381.50
+Positive campaign responses: 334
+Response rate: 14.91%
+Average spend per customer: 605.80
+Total recorded spend: 1356988.00
+Top product spend category: MntWines
+Most used purchase channel (count): NumStorePurchases
+
+LIMITATION: No advertising costs or attributable channel revenue; ROI cannot be calculated.
